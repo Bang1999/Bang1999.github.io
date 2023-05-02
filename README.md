@@ -1,4 +1,4 @@
-# DongHo Bang Portfolio ⚡️ 
+# ⚡️ DongHo Bang Portfolio
 Link : https://bang1999.github.io/
 
 ### Preview of Portfolio
