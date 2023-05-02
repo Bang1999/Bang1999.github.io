@@ -1,7 +1,7 @@
 # DongHo Bang Portfolio ⚡️ 
 Link : https://bang1999.github.io/
 
-### Portfolio Preview
+### Preview of Portfolio
 <p align="center"> 
   <kbd>
     <a href="https://bang1999.github.io/" target="_blank"><img src="examples/preview.gif">
